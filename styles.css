@@ -1,0 +1,27 @@
+body {
+	background-color: #00ced1;
+}
+
+h1 {
+	color: white;
+	font-size: 40px;
+	font-family: serif;
+}
+
+p {
+	color: #ff4681;
+	font-size: 30px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+a {
+	color: #fbdcba;
+}
+
+img {
+	width: 800px;
+	height: 400px;
+	display: block;
+	margin: 0 auto;
+}
